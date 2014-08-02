@@ -1,0 +1,54 @@
+ always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# osx noise
+.DS_Store
+profile
+*.DS_Store
+[Tt]humbs.db
+
+# OS or Editor folders
+.[Pp]roject
+.[Ss]ettings
+.[Tt]mproj
+nbproject
+*.sublime-workspace
+
+# git merge
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+
+
+## Visual Studio
+#[Oo]bj/
+#[Bb]in/
+#*.user
+#*.suo
+#*.[Cc]ache
+#*.bak
+#*.ncb
+#*.log
+
+# xcode noise
+build/*
+*.pbxuser
+*.mode1v3
+
+# xcode 4
+xcuserdata
+
+# Pods
+Pods/
+Podfile.lock
