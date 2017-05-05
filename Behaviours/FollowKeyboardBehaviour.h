@@ -1,9 +1,9 @@
 //
-//  FollowKeyboardAnimator.h
-//  Pontofrio
+//  FollowKeyboardAnimator.m
 //
-//  Created by Taqtile on 6/24/14.
-//  Copyright (c) 2014 Taqtile. All rights reserved.
+//  Created by Vitor Navarro on 6/24/14.
+//  The MIT License (MIT)
+//  Copyright (c) 2013 by Vitor Navarro
 //
 
 #import <Foundation/Foundation.h>
